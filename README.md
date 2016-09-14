@@ -1,7 +1,7 @@
 # 各种方式的 MD5 在安卓上运行效率比较
 
 ## Java Md5
-**完全通过 java 层 方式去计算**
+**完全通过 java API的 方式去计算**
 
 ## FastMd5
 **参考实现方案 http://twmacinta.com/myjava/fast_md5.php**
